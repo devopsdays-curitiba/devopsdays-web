@@ -1,57 +1,83 @@
 +++
-Title = "Devopsdays Curitiba 2027"
+Title = "DevOpsDays Curitiba 2027"
 Type = "welcome"
 aliases = ["/events/2027-curitiba/"]
-Description = "Devopsdays Curitiba 2027!"
+Description = "DevOpsDays Curitiba 2027"
 +++
 
-<div class="row">
-  <div class="col-md-2">
-      {{< event_logo >}}
-      <hr>
-      <a href="https://www.instagram.com/devopsdayscuritiba/" target="_blank" rel="noopener">
-        <i class="fab fa-instagram fa-lg"></i> Instagram
-      </a>
-  </div>
-  <div class="col-md-6">
-    <h3>Devopsdays Curitiba 2027!</h3>
-    <hr/>
-    <div class="row">
-      <div class="col-md-2">
-        <strong>Data</strong>
-      </div>
-      <div class="col-md-4">
-        {{< event_start >}}
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-2">
-        <strong>Local</strong>
-      </div>
-      <div class="col-md-6">
-        {{< event_location >}}
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-2">
-        <strong>Patrocinadores</strong>
-      </div>
-      <div class="col-md-6">
-        {{< event_link page="sponsor" text="Seja um patrocinador / Be a sponsor" >}}
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-2">
-        <strong>Contatos</strong>
-      </div>
-      <div class="col-md-6">
-        {{< event_link page="contact" text="Entre em contato com os organizadores / Contact the organizers" >}}
-      </div>
-    </div>
-  </div>
+<div style="text-align:center;">
+  {{< event_logo >}}
+</div>
 
-  <div class="col-md-4 embed-responsive">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/M9APY6xAJMw?si=ViiiC0rFr6ZpFcBH" title="Devopsdays Curitiba 2027" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Datas</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_start >}} - {{< event_end >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Localização</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_location >}}
+  </div>
+</div>
+
+<!-- <div class = "row">
+  <div class = "col-md-2">
+    <strong>Ingressos</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="registration" text="Garanta seu ingresso!" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Proposta de Palestra</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="propose" text="Proponha uma palestra!" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Grade do Evento</strong>
+  </div>
+  <div class = "col-md-8">
+    Veja a {{< event_link page="program" text="Grade." >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Palestrantes</strong>
+  </div>
+  <div class = "col-md-8">
+    Confira {{< event_link page="speakers" text="Palestrantes!" >}}
+  </div>
+</div> -->
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Patrocinadores</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="sponsor" text="Be a sponsor/Seja um patrocinador!" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Contatos</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="contact" text="Contact the event organizers/Entre em contato com os organizadores" >}}
   </div>
 </div>
 

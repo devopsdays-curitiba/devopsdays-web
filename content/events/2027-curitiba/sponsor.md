@@ -1,7 +1,7 @@
 +++
 Title = "Patrocinadores / Sponsors"
 Type = "event"
-Description = "Patrocine o Devopsdays Curitiba 2027 / Sponsor Devopsdays Curitiba 2027"
+Description = "Patrocine o DevOpsDays Curitiba 2027 / Sponsor DevOpsDays Curitiba 2027"
 +++
 
 <b>Português (Brasil)</b>
