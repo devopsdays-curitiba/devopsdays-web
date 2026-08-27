@@ -1,11 +1,12 @@
 +++
 Title = "Local"
 Type = "event"
-Description = "Local do DevOpsDays Curitiba 2027"
+Description = "Local do Devopsdays Curitiba 2027"
 +++
 
-Auditório Eny Caldeira do Campus Rebouças da UFPR. Avenida Sete de Setembro, 2645 – Entrada pela Rua Rockfeller.
+Auditório Eny Caldeira - UFPR Rebouças - Curitiba
 
+[Rua Rockefeller, 57 - Rebouças](https://www.google.com/maps/search/?api=1&query=Rua+Rockefeller%2C+57+-+Rebou%C3%A7as)
 Próximo ao Shopping Center Estação e da Rodoferroviária. 
 
 Transporte Público:

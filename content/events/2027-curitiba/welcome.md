@@ -2,7 +2,7 @@
 Title = "Devopsdays Curitiba 2027"
 Type = "welcome"
 aliases = ["/events/2027-curitiba/"]
-Description = "Devopsdays Curitiba 2027!"
+Description = "Devopsdays Curitiba 2027"
 +++
 
 <div class="row">
@@ -45,13 +45,15 @@ Description = "Devopsdays Curitiba 2027!"
         <strong>Contatos</strong>
       </div>
       <div class="col-md-6">
-        {{< event_link page="contact" text="Entre em contato com os organizadores / Contact the organizers" >}}
+        {{< event_link page="contact" text="Contate os organizadores / Contact the organizers" >}}
       </div>
     </div>
   </div>
 
-  <div class="col-md-4 embed-responsive">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/M9APY6xAJMw?si=ViiiC0rFr6ZpFcBH" title="Devopsdays Curitiba 2027" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <div class="col-md-4">
+    <div class="embed-responsive embed-responsive-16by9" style="width: 100%; max-width: 360px; margin: 0 auto;">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/M9APY6xAJMw?si=ViiiC0rFr6ZpFcBH" title="Devopsdays Curitiba 2027" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
   </div>
 </div>
 
