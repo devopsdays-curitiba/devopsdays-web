@@ -1,12 +1,12 @@
 +++
 Title = "Código de Conduta / Code of Conduct"
 Type = "event"
-Description = "Código de conduta do DevOpsDays Curitiba 2027 / Code of conduct for DevOpsDays Curitiba 2027"
+Description = "Código de conduta do Devopsdays Curitiba 2027 / Code of conduct for Devopsdays Curitiba 2027"
 +++
 
 <b>Português (Brasil)</b>
 
-Todos os participantes, palestrantes, patrocinadores, voluntários e organizadores do **DevOpsDays Curitiba 2027** devem concordar com e respeitar o seguinte Código de Conduta. A equipe organizadora deverá aplicar estas diretrizes durante todo o evento e em todas as atividades relacionadas. Pedimos a colaboração de todos para garantir um ambiente seguro, respeitoso e inclusivo para todas as pessoas.
+Todos os participantes, palestrantes, patrocinadores, voluntários e organizadores do **devopsdays Curitiba 2027** devem concordar com e respeitar o seguinte Código de Conduta. A equipe organizadora deverá aplicar estas diretrizes durante todo o evento e em todas as atividades relacionadas. Pedimos a colaboração de todos para garantir um ambiente seguro, respeitoso e inclusivo para todas as pessoas.
 
 ### Versão resumida
 
@@ -28,13 +28,13 @@ Os integrantes da equipe podem ser identificados por crachás específicos. Eles
 
 Esperamos que todos os participantes sigam estas regras nos espaços da conferência, workshops e eventos sociais relacionados.
 
-_O Código de Conduta do DevOpsDays Curitiba 2027 é baseado em [confcodeofconduct.com](https://confcodeofconduct.com/index-pt-br.html)._
+_O Código de Conduta do Devopsdays Curitiba 2027 é baseado em [confcodeofconduct.com](https://confcodeofconduct.com/index-pt-br.html)._
 
 <hr>
 
 <b>English</b>
 
-All participants, speakers, sponsors, volunteers, and organizers of the **DevOpsDays Curitiba 2027** are expected to agree with and uphold the following Code of Conduct. The organizing team will enforce these guidelines throughout the event and at all related activities. We ask for the cooperation of everyone in order to ensure a safe, respectful, and inclusive environment for all attendees.
+All participants, speakers, sponsors, volunteers, and organizers of the **Devopsdays Curitiba 2027** are expected to agree with and uphold the following Code of Conduct. The organizing team will enforce these guidelines throughout the event and at all related activities. We ask for the cooperation of everyone in order to ensure a safe, respectful, and inclusive environment for all attendees.
 
 ### Short version
 
