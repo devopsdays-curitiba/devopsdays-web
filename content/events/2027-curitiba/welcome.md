@@ -2,7 +2,7 @@
 Title = "Devopsdays Curitiba 2027"
 Type = "welcome"
 aliases = ["/events/2027-curitiba/"]
-Description = "Devopsdays Curitiba 2027"
+Description = "Devopsdays Curitiba 2027!"
 +++
 
 <div class="row">
@@ -45,7 +45,7 @@ Description = "Devopsdays Curitiba 2027"
         <strong>Contatos</strong>
       </div>
       <div class="col-md-6">
-        {{< event_link page="contact" text="Contate os organizadores / Contact the organizers" >}}
+        {{< event_link page="contact" text="Entre em contato com os organizadores / Contact the organizers" >}}
       </div>
     </div>
   </div>
